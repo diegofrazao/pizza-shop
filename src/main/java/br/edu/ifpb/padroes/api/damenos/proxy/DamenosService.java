@@ -6,6 +6,6 @@ import java.util.List;
 
 public interface DamenosService {
 
-    public List<DamenosPizza> getPizzas();
+    List<DamenosPizza> getPizzas();
 
 }

@@ -21,4 +21,3 @@ public class PizzaHotPizza {
         this.price = price;
     }
 }
-
